@@ -49,3 +49,21 @@ Enter /model_files/
 run train_gcae.sh
 run train_ataelstm.sh
 run train_datgru.sh
+
+If our code helps, please cite:
+```
+@inproceedings{tan-etal-2019-recognizing,
+    title = "Recognizing Conflict Opinions in Aspect-level Sentiment Classification with Dual Attention Networks",
+    author = "Tan, Xingwei  and
+      Cai, Yi  and
+      Zhu, Changxi",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1342",
+    doi = "10.18653/v1/D19-1342",
+    pages = "3417--3422",
+}
+```
